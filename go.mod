@@ -1,4 +1,4 @@
-module sdecimal
+module github.com/blocklib/sdecimal
 
 go 1.15
 
